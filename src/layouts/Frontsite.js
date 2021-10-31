@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
 const Frontsite = () => {
     return (
@@ -10,7 +9,5 @@ const Frontsite = () => {
         </div>
     );
 };
-
-Frontsite.propTypes = {};
 
 export default Frontsite;
