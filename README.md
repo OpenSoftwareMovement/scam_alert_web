@@ -17,5 +17,4 @@ Think this project might be improved in any way ?
 Think we are not doing anything right ?
 Want to join the movement ?
 
-Open an issue and we start from thers.
-
+Open an issue and we start from there.
